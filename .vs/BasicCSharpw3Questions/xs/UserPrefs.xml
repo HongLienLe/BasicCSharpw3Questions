@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{F61158B5-9003-4D00-9452-F6DD6DE99E4B}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BQw3Test/Test.cs">
+    <Files>
+      <File FileName="BasicCSharpw3Questions/Program.cs" Line="1" Column="1" />
+      <File FileName="BQw3Test/Test.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BasicCSharpw3Questions" expanded="True">
+            <Node name="BQw3Test" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="BasicCSharpw3Questions" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BasicCSharpw3Questions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BQw3Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
